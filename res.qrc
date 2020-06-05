@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/map_field_2.jpg</file>
+        <file>image/map_field_3.jpg</file>
+        <file>image/map1.jpg</file>
+        <file>image/map2.jpg</file>
+        <file>image/map3.jpg</file>
+        <file>image/map4.jpg</file>
+        <file>image/map5.jpg</file>
+        <file>image/map6.jpg</file>
+        <file>image/map7.jpg</file>
+        <file>image/menu.jpg</file>
+        <file>image/selectmenu.jpg</file>
+        <file>image/bigGhost.png</file>
+        <file>image/BrownMonster.png</file>
+        <file>image/ClownGhostKing.png</file>
+        <file>image/dinosaur.png</file>
+        <file>image/GreenBox.jpg</file>
+        <file>image/PlaneMonster.jpg</file>
+        <file>image/PurplePig.png</file>
+        <file>image/Witch.png</file>
+        <file>image/xiaoyouling.png</file>
+        <file>image/exit.png</file>
+        <file>image/start.png</file>
+        <file>image/backto.png</file>
+        <file>image/num1.png</file>
+        <file>image/num2.png</file>
+        <file>image/num3.png</file>
+        <file>image/num4.png</file>
+        <file>image/num5.png</file>
+        <file>image/num6.png</file>
+        <file>image/num7.png</file>
+        <file>image/circle.png</file>
+        <file>image/bluecircle.png</file>
+        <file>image/browncircle.png</file>
+        <file>image/yellowcircle.png</file>
+        <file>image/yellowfire.png</file>
+        <file>image/box.png</file>
+        <file>image/greenbottle.png</file>
+        <file>image/bullet.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/Waves.plist</file>
+    </qresource>
+</RCC>
